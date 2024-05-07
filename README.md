@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamid</h1>
 <h3 align="center">~ A passionate web developer ~</h3>
 
-- 🌱 I’m currently learning **VueJs, ReactJs, Laravel, Python**
+- 🌱 I’m currently learning **VueJs, ReactJs, Laravel, Python, ASP.net**
 
 - 📫 How to reach me **hamidkarim2002@gmail.com**
 
