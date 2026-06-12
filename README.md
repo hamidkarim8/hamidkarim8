@@ -16,6 +16,6 @@ Full-stack developer with hands-on experience building and improving real-world 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=hamidkarim8&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=hamidkarim8&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
