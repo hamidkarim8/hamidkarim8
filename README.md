@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer with hands-on experience building and improving real-world applications. I work mainly with Laravel, ColdFusion, and modern JavaScript frameworks, focusing on clean code, performance, and maintainability.<br><br>Currently a Junior Software Developer, I’ve contributed to production systems by refactoring legacy code, fixing critical issues, and delivering reliable features. I’m always looking to improve, learn fast, and build things that actually work.
+Full-stack developer with hands-on experience building and improving real-world applications. I work mainly with Laravel, ColdFusion, and modern JavaScript frameworks, focusing on clean code, performance, and maintainability.<br><br>Currently a Software Developer, I’ve contributed to production systems by refactoring legacy code, fixing critical issues, and delivering reliable features. I’m always looking to improve, learn fast, and build things that actually work.
 
 
 ## 🌐 Socials:
